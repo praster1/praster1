@@ -40,7 +40,7 @@ email: praster1@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/praster1" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "praster1.github.io" # the base hostname & protocol for your site
 
 # Social settings
